@@ -1,0 +1,4 @@
+I was wondering if there's a command line way to open files into sublime.
+
+Shutdown
+Shutdown is a command that turns off the computer and that can be combined with variables such as -h, for halt after shutdown.
